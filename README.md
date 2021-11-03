@@ -4,7 +4,7 @@
 
 ##### Here are some projects that I currently contribute to:   
 
-**Lasio: Log-Ascii-Standard reader/writer**  [lasio](https://github.com/kinverarity1/lasio)
+**Lasio: Log-Ascii-Standard reader/writer** : [lasio](https://github.com/kinverarity1/lasio)
 
 
 <hr>
