@@ -18,7 +18,6 @@
 
 - LasCheck: Python library for checking conformity of LAS files to standards : [MandarJKulkarni/lascheck](https://github.com/MandarJKulkarni/lascheck)
 
-<hr>
 
 
 <!--
